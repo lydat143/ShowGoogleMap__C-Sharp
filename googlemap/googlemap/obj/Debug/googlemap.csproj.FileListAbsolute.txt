@@ -7,3 +7,12 @@ D:\googlemap\googlemap\obj\Debug\googlemap.Properties.Resources.resources
 D:\googlemap\googlemap\obj\Debug\googlemap.csproj.GenerateResource.Cache
 D:\googlemap\googlemap\obj\Debug\googlemap.exe
 D:\googlemap\googlemap\obj\Debug\googlemap.pdb
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\bin\Debug\googlemap.exe.config
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\bin\Debug\googlemap.exe
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\bin\Debug\googlemap.pdb
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.csprojResolveAssemblyReference.cache
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.Form1.resources
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.Properties.Resources.resources
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.csproj.GenerateResource.Cache
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.exe
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.pdb

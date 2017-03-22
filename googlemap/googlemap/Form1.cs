@@ -19,7 +19,7 @@ namespace googlemap
             InitializeComponent();
             SetWebBrowserVersion(11);
             this.webBView.Navigate("http://maps.google.com/maps");
-            
+            rbtnAdd.Checked = true;
         }
 
 
@@ -63,8 +63,27 @@ namespace googlemap
         
         private void btnOK_Click(object sender, EventArgs e)
         {
-            
-            this.webBView.Navigate("http://maps.google.com/maps?q=" + Uri.EscapeUriString(txtAddress.Text));
+            string strAddress = txtAddress.Text, strLat = txtLat.Text, strLong = txtLong.Text; 
+            if(rbtnAdd.Checked)
+            {
+                this.webBView.Navigate("http://maps.google.com/maps?q=" + Uri.EscapeUriString(strAddress));
+            }
+            else
+            {
+                this.webBView.Navigate("http://maps.google.com/maps?q=" + strLat + "%2C" + strLong);
+            }
+        }
+
+        private void rbtnCoordinate_CheckedChanged(object sender, EventArgs e)
+        {
+            grbCoordinate.Enabled = true;
+            txtAddress.Enabled = false;
+        }
+
+        private void rbtnAdd_CheckedChanged(object sender, EventArgs e)
+        {
+            grbCoordinate.Enabled = false;
+            txtAddress.Enabled = true;
         }
     }
 }
