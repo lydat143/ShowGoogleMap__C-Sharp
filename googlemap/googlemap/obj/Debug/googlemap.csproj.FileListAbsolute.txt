@@ -16,3 +16,5 @@ D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.Propert
 D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.csproj.GenerateResource.Cache
 D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.exe
 D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\obj\Debug\googlemap.pdb
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\ShowGoogleMap__C-Sharp\googlemap\googlemap\bin\Debug\Newtonsoft.Json.xml
